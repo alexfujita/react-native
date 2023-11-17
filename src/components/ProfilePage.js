@@ -36,7 +36,7 @@ class ProfilePage extends Component {
                     </View>
                     <View>
                         <Image 
-                            source={{ uri: 'http://www.inouenoemi.com/img/profile_app.jpg' }}
+                            source={{ uri: 'http://www.xxx.com/img/profile_app.jpg' }}
                             style={styles.image}
                             resizeMode={'contain'}
                         />
